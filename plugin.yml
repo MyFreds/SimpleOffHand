@@ -1,0 +1,13 @@
+name: SimpleOffHand
+main: Fred\offhand\Main
+version: 1.0.0
+api: 5.0.0
+author: Fred
+
+commands:
+  offhand:
+    permission: offhand.cmd
+    
+permissions:
+  offhand.cmd:
+    default: true
