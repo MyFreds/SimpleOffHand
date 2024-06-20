@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="https://github.com/MyFreds/SimpleOffHand/blob/main/icon-offhand.jpg" alt="Logo" width="80" height="80">
+  <img src="https://github.com/MyFreds/SimpleOffHand/blob/main/icon.png" alt="Logo" width="80" height="80">
   <h3>SimpleOffHand</h3>
   <p align="center">
     Allows the player to put any item in their OffHand slot
