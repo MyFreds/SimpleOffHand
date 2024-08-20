@@ -6,8 +6,8 @@ author: Fred
 
 commands:
   offhand:
-    permission: offhand.cmd
+    permission: simpleoffhand.use
     
 permissions:
-  offhand.cmd:
+  simpleoffhand.use:
     default: true
